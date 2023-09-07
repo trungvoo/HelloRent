@@ -1,0 +1,46 @@
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Release\Hello.Data.dll.config
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Release\Hello.Data.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Release\Hello.Data.pdb
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Release\EntityFramework.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Release\EntityFramework.SqlServer.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Release\Hello.Common.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Release\Hello.Core.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Release\Hello.Common.pdb
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Release\Hello.Core.pdb
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Release\EntityFramework.xml
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Release\EntityFramework.SqlServer.xml
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\obj\Release\Hello.Data.csprojResolveAssemblyReference.cache
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\obj\Release\Hello.Data.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\obj\Release\Hello.Data.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Release\Hello.Data.dll.config
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Release\Hello.Data.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Release\Hello.Data.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Release\EntityFramework.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Release\Hello.Common.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Release\Hello.Core.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Release\Hello.Common.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Release\Hello.Core.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Release\EntityFramework.xml
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\obj\Release\Hello.Data.csproj.AssemblyReference.cache
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\obj\Release\Hello.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\obj\Release\Hello.Data.csproj.CopyComplete
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\obj\Release\Hello.Data.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\obj\Release\Hello.Data.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Release\Hello.Data.dll.config
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Release\Hello.Data.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Release\Hello.Data.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Release\EntityFramework.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Release\Hello.Common.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Release\Hello.Core.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Release\Hello.Common.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Release\Hello.Core.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Release\EntityFramework.xml
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\obj\Release\Hello.Data.csproj.AssemblyReference.cache
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\obj\Release\Hello.Data.csproj.CoreCompileInputs.cache
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\obj\Release\Hello.Data.csproj.CopyComplete
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\obj\Release\Hello.Data.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\obj\Release\Hello.Data.pdb

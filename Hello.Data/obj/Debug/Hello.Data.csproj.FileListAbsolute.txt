@@ -1,0 +1,46 @@
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Debug\Hello.Data.dll.config
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Debug\Hello.Data.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Debug\Hello.Data.pdb
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Debug\EntityFramework.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Debug\Hello.Common.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Debug\Hello.Core.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Debug\Hello.Common.pdb
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Debug\Hello.Core.pdb
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Debug\EntityFramework.xml
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\obj\Debug\Hello.Data.csprojResolveAssemblyReference.cache
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\obj\Debug\Hello.Data.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Data\obj\Debug\Hello.Data.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Debug\Hello.Data.dll.config
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Debug\Hello.Data.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Debug\Hello.Data.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Debug\EntityFramework.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Debug\Hello.Common.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Debug\Hello.Core.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Debug\Hello.Common.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Debug\Hello.Core.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Debug\EntityFramework.xml
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\obj\Debug\Hello.Data.csproj.AssemblyReference.cache
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\obj\Debug\Hello.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\obj\Debug\Hello.Data.csproj.CopyComplete
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\obj\Debug\Hello.Data.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Data\obj\Debug\Hello.Data.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Debug\Hello.Data.dll.config
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Debug\Hello.Data.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Debug\Hello.Data.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Debug\EntityFramework.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Debug\Hello.Common.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Debug\Hello.Core.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Debug\Hello.Common.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Debug\Hello.Core.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Debug\EntityFramework.xml
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\obj\Debug\Hello.Data.csproj.AssemblyReference.cache
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\obj\Debug\Hello.Data.csproj.CoreCompileInputs.cache
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\obj\Debug\Hello.Data.csproj.CopyComplete
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\obj\Debug\Hello.Data.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Data\obj\Debug\Hello.Data.pdb
