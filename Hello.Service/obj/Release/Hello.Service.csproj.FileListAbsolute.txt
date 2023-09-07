@@ -1,0 +1,31 @@
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Service\bin\Release\Hello.Service.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Service\bin\Release\Hello.Service.pdb
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Service\bin\Release\Hello.Common.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Service\bin\Release\Hello.Core.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Service\bin\Release\Hello.Common.pdb
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Service\bin\Release\Hello.Core.pdb
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Service\obj\Release\Hello.Service.csprojResolveAssemblyReference.cache
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Service\obj\Release\Hello.Service.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Service\obj\Release\Hello.Service.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Service\bin\Release\Hello.Service.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Service\bin\Release\Hello.Service.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Service\bin\Release\Hello.Common.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Service\bin\Release\Hello.Core.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Service\bin\Release\Hello.Common.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Service\bin\Release\Hello.Core.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Service\obj\Release\Hello.Service.csproj.AssemblyReference.cache
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Service\obj\Release\Hello.Service.csproj.CoreCompileInputs.cache
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Service\obj\Release\Hello.Service.csproj.CopyComplete
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Service\obj\Release\Hello.Service.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Service\obj\Release\Hello.Service.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Service\bin\Release\Hello.Service.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Service\bin\Release\Hello.Service.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Service\bin\Release\Hello.Common.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Service\bin\Release\Hello.Core.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Service\bin\Release\Hello.Common.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Service\bin\Release\Hello.Core.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Service\obj\Release\Hello.Service.csproj.AssemblyReference.cache
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Service\obj\Release\Hello.Service.csproj.CoreCompileInputs.cache
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Service\obj\Release\Hello.Service.csproj.CopyComplete
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Service\obj\Release\Hello.Service.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Service\obj\Release\Hello.Service.pdb
