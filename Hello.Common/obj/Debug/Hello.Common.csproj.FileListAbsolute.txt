@@ -1,0 +1,10 @@
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Common\bin\Debug\Hello.Common.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Common\bin\Debug\Hello.Common.pdb
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Common\obj\Debug\Hello.Common.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Common\obj\Debug\Hello.Common.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Common\bin\Debug\Hello.Common.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Common\bin\Debug\Hello.Common.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Common\obj\Debug\Hello.Common.csproj.AssemblyReference.cache
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Common\obj\Debug\Hello.Common.csproj.CoreCompileInputs.cache
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Common\obj\Debug\Hello.Common.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Common\obj\Debug\Hello.Common.pdb
