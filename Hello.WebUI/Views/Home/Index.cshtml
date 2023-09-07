@@ -1,0 +1,79 @@
+﻿@{
+    ViewBag.Title = "HelloRent";
+}
+
+<div class="sum">
+    <br />
+    <br />
+    <h1 class="text-center mt-5">API HelloRent</h1>
+    @*<div class="menuMain content">
+            <nav class="navbar navbar-default" style="margin-bottom:0">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+
+                        <a class="navbar-brand" style="font-family:VnKoala; font-size:30px;font-weight:bold" href="http://www.hellosoft.vn/">
+                            <img src="~/Content/img/logo-hellosoft.png" style="height: auto; max-width: 100%;" />
+                        </a>
+                    </div>
+                    <div style="font-family:Trebuchet MS" id="myNavbar">
+
+                        <div class="pull-right menuRight">
+                            <a href="https://www.instagram.com/hellorentvn/"><img data-toggle="tooltip" data-placement="bottom" title="Instagram" src="~/Content/img/instagram.png" style="width:45px;height:45px;" /></a>
+                            <a href="https://www.facebook.com/hellorent.vn"><img data-toggle="tooltip" data-placement="bottom" title="Facebook Hello Rent" src="~/Content/img/facebook.png" style="width:45px;height:45px" /></a>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+
+        <div class="banner content row" style="background-color:#FFDD00;">
+            <div class="col-md-8 col-xs-12 " style="">
+                <div id="leftbanner" style=" font-family: Roboto, Helvetica, Arial, sans-serif;">
+                    <div align="center">
+                        <video style="width:100%;height:auto" autoplay loop>
+                            <source src="~/Content/media/hellorent.mp4" type="video/mp4" />
+                            <video controls="controls"></video>
+                    </div>
+                </div>
+            </div>
+            <div id="rightbanner" class="col-md-4  col-xs-12" style="text-align:center">
+                <a class="logohellorent" href="https://www.facebook.com/hellorent.vn"><img class="logohellorent" src="~/Content/img/logo.png" style=" padding: 20px;padding-top:63px;max-width: 240px;" /></a>
+                <p style="text-align: center; margin-top:25px">
+
+                    <a href="https://play.google.com/store/apps/details?id=vn.hellosoft.hellorent">
+                        <img class="iconGplay" src="~/Content/img/Google-Play-Store.png" />
+                    </a>
+                </p>
+            </div>
+
+        </div>
+
+        <div class="footer content">
+            <div class="row" style="text-align: center;">
+                <img id="imgfooters" src="~/Content/img/footer1.png" />
+            </div>
+            <div class="row" style="text-align:center; margin-top: 32px;">
+                <div class="imgfooter">
+                    <a href="https://www.facebook.com/hellorent.vn"><img src="~/Content/img/facebookblack.png" /></a>
+                    <a href="https://www.instagram.com/hellorentvn/"> <img src="~/Content/img/instagram.png" /></a>
+                    <a href="https://plus.google.com/u/2/communities/114405969678787462416">   <img src="~/Content/img/googleplus-logo.png" /></a>
+                    <a href="https://www.linkedin.com/in/hello-soft-07144b118?trk=hp-identity-name"><img src="~/Content/img/linkedin.png" /></a><br />
+
+                </div>
+
+            </div>
+
+        </div>*@
+</div>
+
+@section scripts
+{
+    <script type="text/javascript">
+
+        $(function () {
+            var wd = $(".footer").width();
+            $("#imgfooters").width(wd);
+
+        })
+    </script>
+}
