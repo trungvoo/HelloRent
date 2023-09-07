@@ -1,0 +1,25 @@
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Core\bin\Debug\Hello.Core.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Core\bin\Debug\Hello.Core.pdb
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Core\bin\Debug\Hello.Common.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Core\bin\Debug\Hello.Common.pdb
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Core\obj\Debug\Hello.Core.csprojResolveAssemblyReference.cache
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Core\obj\Debug\Hello.Core.dll
+E:\Dropbox\HelloRent.vn\HelloRent.vn\Hello.Core\obj\Debug\Hello.Core.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Core\bin\Debug\Hello.Core.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Core\bin\Debug\Hello.Core.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Core\bin\Debug\Hello.Common.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Core\bin\Debug\Hello.Common.pdb
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Core\obj\Debug\Hello.Core.csproj.AssemblyReference.cache
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Core\obj\Debug\Hello.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Core\obj\Debug\Hello.Core.csproj.CopyComplete
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Core\obj\Debug\Hello.Core.dll
+C:\Users\Admins\Desktop\HelloRent.vn\Hello.Core\obj\Debug\Hello.Core.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Core\bin\Debug\Hello.Core.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Core\bin\Debug\Hello.Core.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Core\bin\Debug\Hello.Common.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Core\bin\Debug\Hello.Common.pdb
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Core\obj\Debug\Hello.Core.csproj.AssemblyReference.cache
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Core\obj\Debug\Hello.Core.csproj.CoreCompileInputs.cache
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Core\obj\Debug\Hello.Core.csproj.CopyComplete
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Core\obj\Debug\Hello.Core.dll
+D:\Gomi Corporation\Projects.Git\HelloRent.vn\Projects\Hello.Core\obj\Debug\Hello.Core.pdb

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B54523E1-8672-4F3E-A5BB-94AEF0405F76}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hello.Core</RootNamespace>
+    <AssemblyName>Hello.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Interface\Data\IRepository.cs" />
+    <Compile Include="Interface\Service\IAccountService.cs" />
+    <Compile Include="Interface\Service\IAdvService.cs" />
+    <Compile Include="Interface\Service\IBaseService.cs" />
+    <Compile Include="Interface\Service\IGiftCardService.cs" />
+    <Compile Include="Interface\Service\IInfoService.cs" />
+    <Compile Include="Interface\Service\IMarkerService.cs" />
+    <Compile Include="Interface\Service\ICountryService.cs" />
+    <Compile Include="Interface\Service\IDeviceService.cs" />
+    <Compile Include="Interface\Service\IDistrictService.cs" />
+    <Compile Include="Interface\Service\IFeaturesService.cs" />
+    <Compile Include="Interface\Service\IDirectionService.cs" />
+    <Compile Include="Interface\Service\INotifyService.cs" />
+    <Compile Include="Interface\Service\IProductService.cs" />
+    <Compile Include="Interface\Service\IPropertyService.cs" />
+    <Compile Include="Interface\Service\IProvinceService.cs" />
+    <Compile Include="Interface\Service\IWarningService.cs" />
+    <Compile Include="Model\Account.cs" />
+    <Compile Include="Model\Advertising.cs" />
+    <Compile Include="Model\GiftCard.cs" />
+    <Compile Include="Model\Information.cs" />
+    <Compile Include="Model\Marker.cs" />
+    <Compile Include="Model\Country.cs" />
+    <Compile Include="Model\Device.cs" />
+    <Compile Include="Model\District.cs" />
+    <Compile Include="Model\Features.cs" />
+    <Compile Include="Model\Direction.cs" />
+    <Compile Include="Model\Notify.cs" />
+    <Compile Include="Model\Picture.cs" />
+    <Compile Include="Model\Product.cs" />
+    <Compile Include="Model\Property.cs" />
+    <Compile Include="Model\Province.cs" />
+    <Compile Include="Model\Warning.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Hello.Common\Hello.Common.csproj">
+      <Project>{28de7e31-f68b-4bdb-aa79-74292fb9c98f}</Project>
+      <Name>Hello.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
